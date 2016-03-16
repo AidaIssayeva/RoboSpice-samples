@@ -1,0 +1,2 @@
+RoboSpice is library for loading data.
+Async isn't killed on screen rotation,this library can be killed after rotation
